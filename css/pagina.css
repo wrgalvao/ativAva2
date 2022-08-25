@@ -8,11 +8,44 @@ div#videos
 footer
 {
     text-align: center;
+    background-color: rgb(48, 48, 48);
+    color: white;
+    padding: 40px;
+    margin-top: 15px;
 }
 body
 {
     font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
 }
-h1{
+h1
+{
     color: green;
+    font-family: cursive;
+}
+h2
+{
+    font-family: cursive;
+}
+a
+{
+    text-decoration: none;
+}
+#menu
+{
+    text-decoration: none;
+    background-color: rgb(59, 75, 59);
+    word-spacing: 40px;
+    padding: 40px;
+    margin-bottom: 10px;
+}
+.linkMenu
+{
+    color: white;
+    font-family: cursive;
+}
+p
+{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
